@@ -1,0 +1,28 @@
+# data never leave the lab
+*.acq
+*.xlsx
+*.xls
+*.csv
+*.json
+*.fif
+*.edf
+data/
+studies/*/data/
+studies/*/config_local.py
+*_clean_data/
+Limpios_*/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# editors / OS
+.DS_Store
+.vscode/
+.cursor/
+.idea/
+.claude/
+.mplconfig/

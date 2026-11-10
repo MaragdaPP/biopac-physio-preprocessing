@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived version you used."
+title: "biopac-physio-preprocessing: semi-automatic ECG, EDA, respiration and RSA preprocessing for BIOPAC recordings"
+type: software
+authors:
+  - family-names: "Puigcerver Pérez"
+    given-names: "Maragda"
+    affiliation: "Universitat de València"
+version: "1.0.0"
+date-released: "2026-11-10"
+repository-code: "https://github.com/MaragdaPP/biopac-physio-preprocessing"
+license: MIT
+keywords:
+  - ECG
+  - heart rate variability
+  - electrodermal activity
+  - respiration
+  - respiratory sinus arrhythmia
+  - BIOPAC
+  - psychophysiology
